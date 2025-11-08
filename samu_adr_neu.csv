@@ -1,0 +1,236 @@
+adress_id,ort,tel,foto,info,mail,gebdat,strasse,vorname,funktion,nachname,sortierung,aktualisiert
+3,3110 Münsingen,079 366 46 81,<blank>,<blank>,praesidium@samariter-muensingen.ch,<blank>,Aarweg 2,Danielle,Präsidentin<br>Kursleiterin 2<br>Samariterlehrerin<br>Vertreterin GF,Brusato,1,2020-03-29 04:21:57
+5,3510 Konolfingen,031 791 17 71,<blank>,<blank>,sekretariat@samariter-muensingen.ch,<blank>,Sonnackerweg 1,Eliane,Kursleiterin 1<br>Sekretärin<br>Materialverantwortliche<br>KATA - Anhänger,Tanner,3,2020-02-16 15:37:39
+6,3110 Bern,076 337 76 15,<blank>,<blank>,<blank>,<blank>,Walkestrasse 4,Gabriela,Kursleiterin 2<br>Samariterlehrerin,Huggler,99,2020-03-29 04:30:01
+7,3110 Münsingen,031 722 04 60,<blank>,<blank>,<blank>,<blank>,Sägegasse 48B,Rita,<blank>,Hof,99,0000-00-00 00:00:00
+8,<blank>,031 721 19 93 ,<blank>,<blank>,<blank>,<blank>,<blank>,Janine,<blank>,Mattenberger,99,0000-00-00 00:00:00
+9,3110 Münsingen,031 721 82 32,<blank>,<blank>,<blank>,<blank>,Belpbergstrasse 97,Franziska,<blank>,Brügger,99,0000-00-00 00:00:00
+10,3110 Münsingen,<blank>,<blank>,<blank>,werbung@samariter-muensingen.ch,<blank>,Hölzliackerweg 2a,Susanne,Werbung<br>Webmasterin,Gilgen,99,0000-00-00 00:00:00
+11,3110 Münsingen,<blank>,<blank>,<blank>,kurse@samariter-muensingen.ch,26.05.1975,<blank>,Manuela,<blank>,Glauser,99,2017-12-26 17:51:15
+13,3122 Kehrsatz,031 961 90 00,<blank>,<blank>,marcel@sohler.ch,29.08.1967,Sandbühl 16,Marcel,<blank>,Sohler,99,2016-06-01 00:27:30
+19,3083 Trimstein,031 311 81 18,<blank>,<blank>,info@bfire.ch,31.07.1981,Dorf 38,Pascal,<blank>,Bütikofer,99,2016-06-20 10:48:37
+14,3122 Kehrsatz,031 961 28 07,<blank>,<blank>,ausbildung@samariter-muensingen.ch,03.07.1982,Selhofen 33,Barbara,Kursleiterin 2<br>Samariterlehrerin<br>Firmenkurse<br>TA-Chefin,Burkhalter,2,2023-08-14 07:51:55
+15,3110 Münsingen,0793664681,<blank>,<blank>,danielle.brusato@linuxtec.ch,09.02.1967,Aarweg 2,Danielle,<blank>,Brusato,99,2016-04-29 21:12:34
+17,3097 Liebefeld,079 396 78 53,<blank>,<blank>,kienair83@gmail.com,29.09.1983,Sportweg 15,Daniel,<blank>,Kiener,99,2016-05-28 09:45:16
+18,3110 Münsingen,079 252 69 00,<blank>,<blank>,sanitaetsdienst@samariter-muensingen.ch,<blank>,<blank>,Fabienne,Sanitätsdienst<br>Globi Samariterjugendgruppe-Leiterin,Zaugg,8,0000-00-00 00:00:00
+20,3600 Thun,079 641 95 46,<blank>,<blank>,moser_christina@hotmail.com,19.10.1974,Lauenenweg 5L,Christina ,<blank>,Moser,99,2016-06-18 15:29:18
+21,3111 Tägertschi,079 206 55 47,<blank>,<blank>,zobies@bluewin.ch,05.01.1975,Untere Weinhalde 31,Manuela,<blank>,Zobrist,99,2016-06-18 15:31:50
+22,3110 Münsingen,031 721 58 54,<blank>,<blank>,m_glauser@quickine.ch,26.05.1975,Belpbergstrasse 32c,Manuela,<blank>,Glauser,99,2016-06-18 15:35:43
+23,3110 Münsingen,077 476 67 04,<blank>,<blank>,ashene.abraham@yahoo.com,04.10.1997,Belpbergstrasse 25,Abraham,<blank>,Ashene,99,2016-06-21 19:54:19
+24,3113 Rubigen,<blank>,<blank>,<blank>,l.pauli@bluewin.ch,<blank>,Stöcklimattweg 19,Lilian,<blank>,Pauli,99,2016-06-28 21:43:09
+25,3110 Münsingen,031 721 19 17,<blank>,<blank>,abiraami@windowslive.com,<blank>,Bärenstutz 15,Abiraami,<blank>,Packiarajah,99,2016-07-06 10:05:33
+26,3067 Boll,079 598 22 18,<blank>,<blank>,karin.baumga@bluewin.ch,23.01.1987,Nesselbank 64a,Karin,<blank>,Baumgartner,99,2016-07-10 13:49:46
+27,3123 Belp,079 645 39 08,<blank>,<blank>,ruth.hostettler@bankslm.ch,21.12.1961,Steinbachstrasse 51,Ruth,<blank>,Hostettler,99,2016-07-11 15:03:41
+28,3110 Münsingen,031 700 10 20,<blank>,<blank>,daniel.sterchi@bankslm.ch,13.11.1972,Dorfmattweg 23A,Daniel,<blank>,Sterchi,99,2016-07-12 17:33:53
+29,Oberdiessbach,0793989634,<blank>,<blank>,sansom@bluewin.ch,28.10.1977,Hohlenhausweg 8,Sandra,<blank>,Sommer,99,2016-08-17 08:42:56
+30,3110 Münsingen,079 488 67 78,<blank>,<blank>,galeazzi_shanna@gmx.ch,25.12.1991,Grrnigelstrasse.15,Shanna,<blank>,Galeazzi,99,2016-07-13 14:26:27
+31,3110 Münsingen,031 700 1 30,<blank>,<blank>,marc.buerki@bankslm.ch,13.02.1975,Belpbergstrasse 45,Marc,<blank>,Bürki,99,2016-07-18 14:37:39
+32,3652 Hilterfingen,033 243 17 82,<blank>,<blank>,mc-lanz@bluewin.ch,19.2.1972,Breitenweg 3,Claudia,<blank>,Lanz,99,2016-07-21 10:40:58
+33,3755 Horboden,079 759 67 81,<blank>,<blank>,sophie-hofmann@bluewin.ch,25.5.1976,Rain 15,Sophie,<blank>,Hofmann,99,2016-07-21 10:53:05
+34,3006 Bern,079 330 08 06,<blank>,<blank>,petertoni85@bluewin.ch,14.9.1949,Nussbaumstrasse 34,Peter,<blank>,Eichholzer,99,2016-08-01 12:07:52
+35,3250 Lyss,078 907 52 22,<blank>,<blank>,celinemr49@gmail.com,26.10.1997,Knospenweg 10,Celine,<blank>,Möri,99,2016-08-08 20:43:25
+36,3027 Bern,0764376927,<blank>,<blank>,nice@live.de,06.12.1998,Kasparstrasse 17/30,Dario,<blank>,Steck,99,2016-08-12 10:22:20
+38,3176 Neuenegg,0793061486,<blank>,<blank>,s.ryser@bluewin.ch,28.3.1984,Landstuhl 388,Sandra,<blank>,Ryser,99,2016-08-16 08:00:04
+39,3110 Münsingen,0793719027,<blank>,<blank>,leuchterblume@gmx.ch,03.05.1983,Belpbergstrasse 30a,Sonja,<blank>,Halter,99,2016-08-17 11:12:18
+40,3110 münsingen,079 527 86 18,<blank>,<blank>,s.studer66@gmail.com,10.02.1997,Erlenauweg 28,Sven,<blank>,Studer,99,2016-08-22 10:23:17
+41,3073 Gümligen,031 952 79 70,<blank>,<blank>,beat.liebermann@bluewin.ch,05.07.1964,tannackerstr. 52,beat,<blank>,liebermann,99,2016-08-22 10:32:18
+42,3116 Kirchdorf,079 549 14 27,<blank>,<blank>,bigler204@gmail.com,21.1.1999,Lauenen 2,Rebecca,<blank>,Bigler,99,2016-08-24 18:47:50
+43,3113 Rubigen ,079 544 99 90,<blank>,<blank>,unit3@gmx.ch,12.09.1979,Bahnhofstrasse 11,Martin,<blank>,Hauri,99,2016-08-24 18:58:19
+44,3115 Gerzensee,0792410267,<blank>,<blank>,schneiderms@bluewin.ch,23.07.1980,Schützenfahrstrasse 13g,Marc,<blank>,Schneider,99,2016-09-06 07:15:44
+45,3507 Biglen,079 426 56 21,<blank>,<blank>,nadja.gerber@gymburgdorf.ch,04.05.1999,Mühlestrasse 6,Nadja,<blank>,Gerber,99,2016-09-06 20:34:56
+46,3115 Gerzensee,031 781 20 67,<blank>,<blank>,anja.keusen@gmail.com,10.04.2000,Bärenmattweg 9,Anja,<blank>,Keusen,99,2016-09-06 20:40:25
+47,3629 Kiesen,031 535 77 13,<blank>,<blank>,cindy.reber@hispeed.ch,07.06.1999,Dorfmatte 4,Cindy,<blank>,Reber,99,2016-09-06 20:44:55
+48,3113 Rubigen,079 705 55 52,<blank>,<blank>,kangarooli83@hotmail.com,19.03.1983,Hirschweid 510,Linda,<blank>,Thomann,99,2016-09-06 20:49:12
+49,3086 Zimmerwald,0318193273,<blank>,<blank>,daniela_koenig94@hotmail.com,<blank>,Obermuhlern,Daniela,<blank>,König,99,2016-09-06 23:33:41
+50,3110 Münsingen,079 466 93 29,<blank>,<blank>,m.straubhaar@gmx.ch,<blank>,Luchliweg 11a,Michael,<blank>,Straubhaar,99,2016-09-12 06:46:11
+51,3110 Münsingen,031 721 29 83,<blank>,<blank>,fabienne-studer@bluewin.ch,27.07.1979,Thürlenweg 6,Thomas,<blank>,Studer,99,2016-09-13 14:31:13
+52,3612 Steffisburg,079 651 83 18,<blank>,<blank>,maettu.mai@gmail.com,05.02.1987,Zulgstrasse 28a,Matthias,<blank>,Mai,99,2016-09-17 09:53:19
+53,3076 Worb,079 501 52 45,<blank>,<blank>,susannekiener@hotmail.com,30.05.1978,Vechigenstr. 15,Susanne,<blank>,Kiener,99,2016-09-18 14:36:47
+54,3507 Biglen,031 701 11 92,<blank>,<blank>,deborahhirschi45@gmail.com,07.03.2000,Arnistrasse 36,Deborah,<blank>,Hirschi,99,2016-09-18 17:05:30
+55,3800 Matten,033 823 48 41,<blank>,<blank>,fugazza@quicknet.ch,25.10.1967,Oelestrasse 21,Monika,<blank>,Fugazza,99,2016-09-18 19:42:27
+56,3083 trimstein,079 158 96 19,<blank>,<blank>,akiralaser@gmail.com,09.04.1972,eichi 48c,reto,<blank>,stoller,99,2016-09-19 09:34:19
+57,3044 Innerberg,031 829 27 71,<blank>,<blank>,j.my@hispeed.ch,19.12.1956,Sägeweg 13,Jürg ,<blank>,Meyer,99,2016-09-19 17:27:59
+58,3110 Miünsingen,031 700 10 26,<blank>,<blank>,roland.huber@bankslm.ch,19.12.1974,Dorfplatz 5,Roland,<blank>,Huber,99,2016-09-23 09:01:58
+59,3110 Münsingen,076 404 83 15,<blank>,<blank>,annameier1988@gmail.com,13.11.1988,Beerstutz 1,Anna,<blank>,Meier,99,2016-09-26 23:00:01
+60,3629 Kiesen,079 713 90 69,<blank>,<blank>,priri@bluewin.ch,30.4.1977,Professoreistrasse 6,Priska,<blank>,Rieder,99,2016-10-08 10:49:59
+61,3123 Belp,079 664 39 89,<blank>,<blank>,nicole_ka@bluewin.ch,28.4.1982,Eigerweg 5,Nicole,<blank>,Kaufmann,99,2016-10-08 10:51:39
+62,3110 münsingen,0789152458,<blank>,<blank>,mussasamia303@yahoo.com,10/06/1970,schulhause gasse 3,Rozina yessuf ,<blank>,Adem,99,2016-11-19 16:03:28
+63,3018 Bern,079 961 66 50,<blank>,<blank>,mk-s@live.de,22.01.1989,Stöckackerstrasse 55,Studer,<blank>,Maria Kristina,99,2016-10-29 16:25:38
+64,3018 Bern,078 856 10 17,<blank>,<blank>,gimbo@gmx.ch,21.06.1989,Stöckackerstrasse 55,Gina,<blank>,Divis,99,2016-10-29 16:28:07
+65,3626 Hünibach,079 439 70 75 ,<blank>,<blank>,beat_stettler@bluewin.ch,21.05.1971,Staatsstrase 169 ,Beat,<blank>,Stettler,99,2016-10-31 21:59:23
+66,3629 Kiesen,077 426 15 93,<blank>,<blank>,fussballerin@gmx.ch,<blank>,Schmiedemattweg 7,Simone ,<blank>,Utiger,99,2016-11-02 20:14:23
+67,3144 Gasel,031 849 30 67/079 24,<blank>,<blank>,tlocher@bluewin.ch,05.11.1968,Krummeneggweg 5,Thomas,<blank>,Locher,99,2016-11-04 20:12:52
+68,3803 Beatenberg,033 841 00 36,<blank>,<blank>,monica.aleman@swissdefibrillator.ch,<blank>,Mauren 814C,Monica,<blank>,Aleman,99,2016-11-08 17:38:59
+69,3014 Bern ,079 676 14 15,<blank>,<blank>,geri.lowiner@bluemail.ch,7.6.1969,Flurstrasse 38,Gerhard,<blank>,Lowiner,99,2016-11-09 17:59:40
+70,3110 Münsingen,0317213992,<blank>,<blank>,sportprint@bluewin.ch,13.02.1953,Sägegasse 91,Marcel,<blank>,Schnyder,99,2016-11-15 08:00:28
+71,3110 Münsingen,071/440 44 48,<blank>,<blank>,s.glauser@webware.ch,<blank>,Sägegasse 48b,Sybille,<blank>,Glauser,99,2016-11-14 14:16:00
+72,3532 Mirchel,0317911585,<blank>,<blank>,aekam17@gmail.com,03.03.1966,Appenbergstr.17,Eva,<blank>,Krähenbühl,99,2016-11-15 09:52:03
+73,3504 Niederhünigen,0797167932,<blank>,<blank>,<blank>,02.04.1974,Katzengässli 2,Margrit,<blank>,Gäggeler,99,2017-02-27 12:21:05
+74,3014 Bern,078 689 45 09,<blank>,<blank>,kawuethrich@hotmail.com,04.04.1975,Schützenweg 21,Karin,<blank>,Wüthrich,99,2016-11-17 17:14:04
+75,3006 Bern,0319307811,<blank>,<blank>,marlis.bergmann@intersport.com,24.04.1966,Wölflistrasse 2,Marlis,<blank>,Bergmann,99,2016-11-18 13:21:33
+76,3006 Bern,0319307836,<blank>,<blank>,dominique.aebi@intersport.com,04.05.1988,Wölflistrasse 2,Dominique,<blank>,Aebi,99,2016-11-18 13:24:52
+77,3006 Bern,0319307829,<blank>,<blank>,olin.forster@intersport.com,22.01.1988,Wölflistrasse 2,Olin,<blank>,Forster,99,2016-11-18 13:26:32
+78,3006 Bern,0319307913,<blank>,<blank>,alexandra.liechti@intersport.com,06.11.1980,Wölflistrasse 2,Alexandra,<blank>,Liechti,99,2016-11-18 13:32:05
+79,3006 Bern,0319307931,<blank>,<blank>,severine.mauron@intersport.com,12.01.1982,Wölflistrasse 2,Sèverine,<blank>,Mauron,99,2016-11-18 13:34:55
+80,3006 Bern,0319307806,<blank>,<blank>,michael.oltmanns@intersport.com,22.02.1983,Wölflistrasse 2,Michael,<blank>,Oltmanns,99,2016-11-18 13:37:12
+81,3006 Bern,0319307811,<blank>,<blank>,karin.schuepbach@intersport.com,10.12.1964,Wölflistrasse 2,Karin,<blank>,Schüpbach,99,2016-11-18 13:38:47
+82,3013 Bern,031 534 89 50,<blank>,<blank>,d.voellmy@swissonline.ch,15.08.1956,Kasernenstrasse 35,Dorothee,<blank>,Voellmy,99,2016-11-23 14:38:04
+83,3110 münsingen,079 485 51 59,<blank>,<blank>,florinerychen@gmail.com,<blank>,gantrischweg 4,florine,<blank>,rychen,99,2016-11-24 17:29:07
+84,3627 Heimberg,0794358624,<blank>,<blank>,ja.perroulaz@hotmail.de,21.01.1996,Sonnhaldeweg 6,Janine,<blank>,Perroulaz,99,2016-11-30 13:38:14
+85,3302 Moosseedorf,0766080993,<blank>,<blank>,nita_demiri@live.com,09.11.1993,Bernstrasse47,Arbenita,<blank>,Demiri,99,2016-11-30 15:00:27
+86,3855 Brienz BE,078 618 19 05,<blank>,<blank>,timhess84@gmail.com,03.07.1984,Bitschi 1057,Tim,<blank>,Hess,99,2016-11-30 17:20:49
+87,4538 Oberbipp,079 438 15 60,<blank>,<blank>,mueller.michael@hotmail.com,29.12.1981,Ahornweg 1,Michael,<blank>,Müller,99,2016-12-01 10:50:57
+88,3110 Münsingen,031 724 51 11,<blank>,<blank>,anna.raselli@muensingen.ch,<blank>,Neue Bahnhofstrasse 14,Anna ,<blank>,Raselli,99,2016-12-02 17:11:13
+89,3110 Münsingen,031 721 36 60,<blank>,<blank>,raul.miguel@bluewin.ch,<blank>,Hintergasse 11,Raul,<blank>,Miguel Gil-Ortega,99,2016-12-02 17:52:42
+90,3672 oberdiessbach,0796550217,<blank>,<blank>,nadl.mosimann1990@gmail.com,18.08.1990,Schloss-strasse 41,Nadine,<blank>,Mosimann,99,2016-12-03 03:22:40
+91,3114 Wichtrach,0795863942,<blank>,<blank>,krisipes@gmail.com,02.04.1991,Birkenweg 20,Kristoffer,<blank>,Sipes,99,2016-12-06 12:08:00
+93,3110 Münsingen,079 821 60 53,<blank>,<blank>,rolf_adam@heilsarmee.ch,<blank>,Standweg 7,Rolf,<blank>,Adam,99,2016-12-07 10:57:33
+94,3703 aeschi b. Spiez,0793476762,<blank>,<blank>,Raphu92@gmail.com,03/12/1992,Scheidgasse 47,Bürgin,<blank>,Raphael,99,2016-12-08 08:51:26
+95,3714 Frutigen,079 425 14 79,<blank>,<blank>,selina.langhart@gmx.ch,14.01.1995,Grassiweg 36D,Selina,<blank>,Langhart,99,2016-12-13 21:23:42
+97,3110 Münsingen,9876311224,<blank>,<blank>,pascal.huettner@gmx.ch,<blank>,Sägematte 11,Pascal,<blank>,Hüttner,99,2016-12-15 08:33:08
+98,3661 Uetendorf,0795427079,<blank>,<blank>,yvo87@gmx.net,17.04.1987,Wildenrüti 404,Yvonne,<blank>,Balsiger,99,2016-12-15 09:22:50
+99,Münsingen,0317219057,<blank>,<blank>,pbs1@gmx.ch,20.01.1971,Gantrischweg 2,Pascale,<blank>,Bühlmann - Schmutz,99,2016-12-16 17:35:37
+100,3647 Reutigen,078 753 84 44,<blank>,<blank>,bb.gurtner@bluewin.ch,06.08.1958,Stockentalstrasse 94,Bernhard,<blank>,Gurtner,99,2016-12-17 16:44:23
+101,3114 Wichtrach,079 590 29 70,<blank>,<blank>,millerstef4@gmail.com,<blank>,Gassacherweg 3,Müller,<blank>,Stefan,99,2016-12-18 19:23:30
+102,3014 Bern,0313319438,<blank>,<blank>,silaszurigo@bluewin.ch,<blank>,Tellstrasse 24,Silas,<blank>,Zürcher,99,2016-12-20 13:21:03
+103,3110 Münsingen,079 707 66 50,<blank>,<blank>,n.jurasch@gmx.ch,18.10.1977,Bärenstutz 15,Nicole,<blank>,Jurasch,99,2016-12-30 21:51:56
+104,3116 Kirchdorf,0799614705,<blank>,<blank>,karin.ryter@gmx.ch,29.08.1978,Hofacker 10,Karin,<blank>,Ryter,99,2016-12-31 10:49:46
+105,3110 Münsingen,031 720 86 29,<blank>,<blank>,anna.walther@pzmag.ch,<blank>,"HUnzigenallee 1, Kita Ratatui",Anna ,<blank>,Walther,99,2017-01-03 16:46:29
+107,3110 Münsingen,031 721 08 06,<blank>,<blank>,pascal_jermann@swi.salvationarmy.org,<blank>,Standweg 7,Kinderheim Sonnhalde,<blank>,Herr Pascal Jermann,99,2017-01-09 18:59:49
+108,3672 Oberdiessbach,033 533 20 30,<blank>,<blank>,janssen.antje@gmail.com,07.08.1980,Burgdorfstrasse 16,Antje,<blank>,Janssen-Premuzic,99,2017-01-11 09:17:18
+109,3309 Kernenried,079 751 75 75,<blank>,<blank>,info@polesana.swiss,07.05.1965,Im Holz 7,Daniel,<blank>,Polesana,99,2017-01-21 11:34:32
+111,3612 Steffisburg,079 711 44 25,<blank>,<blank>,brigitte.roth@gmx.ch,25.03.1977,Ziegeleistrasse 54a,Brigitte,<blank>,Roth,99,2017-01-29 10:34:20
+112,Münsingen,0798864619,<blank>,<blank>,edona.rrushi@hotmail.com,05.03.1989,"Löwenmattweg, 35",Ylber,<blank>,Rrushi,99,2017-02-19 21:39:03
+113,3,<blank>,<blank>,<blank>,samuel.bruegger@gmx.ch,<blank>,Belpbergstrasse 97,Samuel,<blank>,Brügger,99,2017-02-05 18:52:27
+114,3612 Steffisburg,033 437 04 59 / 079 ,<blank>,<blank>,kurzlis @greenmail.ch,05.07.1968,Hohgantweg 17 A,Jacqueline,<blank>,Kurz,99,2017-02-06 14:59:11
+115,3600 Thun,0792421428,<blank>,<blank>,matku@bluewin.ch,13.06.1987,Scherzligweg 12,Mathias,<blank>,Künzi,99,2017-02-07 17:12:35
+116,3154 Rüschegg-Heubach,079 728 31 26,<blank>,<blank>,bruno-mitterer@gmx.ch,19.07.1989,Aspen 531,Bruno,<blank>,Mitterer,99,2017-02-13 06:30:51
+117,3154 Rüschegg Heubach,031 734 39 00,<blank>,<blank>,brigitte.mast@haco.ch,14.08.1973,Stössenried 453b,Jürg,<blank>,Burri,99,2017-02-13 11:20:55
+119,3110 Münsingen ,078 626 08 92,<blank>,<blank>,alex2608@live.de ,26.08.1997,Stegreutiweg 32,Patrick ,<blank>,Schneider ,99,2017-02-19 01:31:12
+120,Oppligen,0334420045,<blank>,<blank>,bertsche@bluewin.ch,09.11.1979,"Dorfplatz, 3",Pascal,<blank>,Bertsche,99,2017-02-21 23:40:24
+122,3114 Wichtrach,079 620 13 07,<blank>,<blank>,sedric.schweizer@gmail.com,08.03.1994,Wagnerweg 1,Sedric,<blank>,Schweizer,99,2017-02-27 07:31:56
+123,3110 Münsingen,031/636 22 92,<blank>,<blank>,elisabeth.wyttenbach@pom.be.ch,30.11.56,Thunstrasse 14,Elisabeth,<blank>,Wyttenbach,99,2017-03-01 14:25:55
+124,3083 Trimstein,0317912530,<blank>,<blank>,n.lancione@hotmail.com,11.02.2001,Dorfstrasse 36b,Luca,<blank>,Lancione,99,2017-03-02 16:40:52
+125,3612 Steffisburg,0797449555,<blank>,<blank>,info@florissimo.ch,23.09.1985,Dohlenweg 7,Petra,<blank>,Zehr,99,2017-03-06 09:36:00
+126,3111 Tägertschi,031 822 05 59,<blank>,<blank>,einanderhelfen@gmx.ch,29.04.2001,untere Weinhalde 29,Jonas,<blank>,Rossel,99,2017-03-06 20:43:50
+127,3076 Worb,0764316199,<blank>,<blank>,christa.schuepbach@bluemail.ch,<blank>,Wannhalde 1018,Christa,<blank>,Schüpbach,99,2017-03-21 15:18:33
+206,3110,0774517258,<blank>,<blank>,dario.veronese@gmail.com,<blank>,Lerchenweg 7,Dario,<blank>,Veronese,99,2018-10-21 11:29:33
+130,Münsingen,+41797924579,<blank>,<blank>,beat.feller@gmail.com,<blank>,Erlenauweg 28,Beat,<blank>,Feller,99,2017-05-07 14:02:40
+131,3113 rubigen,0788965395,<blank>,<blank>,magr700@mail.com,<blank>,Feldernstr. 68,Martina ,<blank>,Grimm,99,2017-05-12 13:55:55
+207,Münsingen,079 289 00 23,<blank>,<blank>,gabiwermuth@bluewin.ch,<blank>,Erlenauweg 20,Gabi,<blank>,Wermuth,99,2018-10-22 14:06:46
+133,3792 Saanen,0798009516,<blank>,<blank>,stephanie.marmet@stud.phbern.ch,<blank>,Dorfstrasse 107,Stephanie,<blank>,Marmet,99,2017-05-24 10:48:08
+134,3608 Thun,079 362 73 30,<blank>,<blank>,Caroline. Eschler@bluewin.ch,<blank>,Brunnackerweg 11    (Neu),Caroline ,<blank>,Eschler ,99,2017-06-05 21:17:38
+135,3113 Rubigen,079 423 41 45,<blank>,<blank>,daniel.hahn@rubigen.ch,<blank>,Dorfmatte 1204,Daniel,<blank>,Hahn,99,2017-06-14 15:28:53
+136,4450 sissach,<blank>,<blank>,<blank>,toby.aebersold@bluewin.ch,<blank>,parkweg 1,toby,<blank>,aebersold,99,2017-06-23 16:44:05
+137,<blank>,<blank>,<blank>,<blank>,info@cybersolutions.website,<blank>,<blank>,Jim,<blank>,Role,99,2017-06-26 18:04:40
+138,Münsingen,0317213306,<blank>,<blank>,lukaffolter@bluewin.ch,<blank>,"Eichenweg, 11",Lukas,<blank>,Affolter,99,2017-07-03 13:08:02
+139,3098 Köniz,079 616 17 44,<blank>,<blank>,roger.kuenzli@rkzbbm.ch,<blank>,Tulpenweg 124,Roger,<blank>,Künzli,99,2017-07-04 16:25:59
+140,3110 Münsingen,031 991 82 83,<blank>,<blank>,suega@zapp.ch,<blank>,Schlossmatte 5,Susanne,<blank>,Gasser,99,2017-07-08 07:14:52
+141,Wichtrach,41317813726,<blank>,<blank>,4rebwi@hispeed.ch,<blank>,Lerchenweg 7,Fritz,<blank>,Reber,99,2017-07-11 14:36:16
+142,3110 Münsingen,0786807734,<blank>,<blank>,ismet_goekcen@hotmail.ch,<blank>,Belpbergstrasse 32C,Ismet,<blank>,Gökcen,99,2017-07-21 19:12:22
+143,3082 Schlosswil,079 794 48 37,<blank>,<blank>,veronika-weber@gmx.ch,<blank>,Riedstrase 468,Veronika,<blank>,Weber,99,2017-07-27 20:47:38
+144,3628 Uttigen,033 345 05 77,<blank>,<blank>,danewyss@hotmail.com,<blank>,Riedweg 18,Daniela,<blank>,Stauffer,99,2017-08-10 16:25:10
+145,3110 Münsingen,031 720 10 18,<blank>,<blank>,angela.meili@gmx.ch,<blank>,Hunzikenstrasse 2,Angela / CTA AG,<blank>,Meili,99,2017-08-14 11:24:51
+147,3600 Thun,031 720 86 60 (PZM M,<blank>,<blank>,marlise.heng@pzmag.ch ,<blank>,Niesenblickstrasse 11,Heng ,<blank>,Marlise ,99,2017-08-17 11:59:44
+190,3088 Rüeggisberg,0318090405,<blank>,<blank>,esthertrachsel@yahoo.de,<blank>,Dorfstrasse 15,Esther,<blank>,Trachsel,99,2018-08-14 18:25:30
+191,3506 Grosshöchstetten,+41 76 400 99 32,<blank>,<blank>,pascal.sarbach@bluewin.ch,<blank>,Möschbergweg 14,Pascal ,<blank>,Sarbach,99,2018-08-15 15:35:31
+151,3612 Steffisburg,079 895 65 58,<blank>,<blank>,stefan.gugger@pom.be.ch,<blank>,Flühlistrasse 31,Stefan,<blank>,Gugger,99,2017-09-21 13:02:03
+153,3110 Münsingen,079 324 67 68,<blank>,<blank>,carmen.gasser@epost.ch,<blank>,Schlossmatte 5,Carmen,<blank>,Gasser,99,2017-10-25 16:12:42
+154,3110 münsingen,0796875292,<blank>,<blank>,Heiniger.t94@hotmail.com,<blank>,Alte bahnhofstrasse 13,Thomas,<blank>,Heiniger,99,2017-10-27 12:55:47
+155,3662 Seftigen,079 342 71 37,<blank>,<blank>,verena.brenn@bluewin.ch,<blank>,Amselweg 5,Verena,<blank>,Brenn,99,2017-11-16 11:02:29
+156,3206 Biberen,079 3408760,<blank>,<blank>,frudi@sensemail.ch,<blank>,Oberdorfstrasse 22,Kindler,<blank>,Fritz,99,2017-11-20 20:53:47
+157,3110 Münsingen,031 724 15 10,<blank>,<blank>,juerg.strasser@belwag.ch,<blank>,Ahornweg 8a,Jürg,<blank>,Strasser,99,2017-11-21 09:19:38
+158,3110 Münsingen,078 757 13 34,<blank>,<blank>,monika.zeller@zapp.ch,<blank>,Lindenweg 18c,Monika,<blank>,Zeller,99,2017-11-29 08:37:33
+159,3113 Rubigen,031 720 42 64,<blank>,<blank>,hans-peter.voegeli@kaestlitrans.ch,<blank>,altes Riedgässli 16,Kästli Transport AG,<blank>,Hans-Peter Vögeli,99,2017-12-04 11:20:31
+275,<blank>,076 812 81 58,<blank>,<blank>,finance.imcapawc2020@gmail.com,<blank>,<blank>,Rouva,<blank>,Stautner,99,2019-04-10 08:40:50
+161,3110 Münsingen,031 721 44 55,<blank>,<blank>,lerche-4@zapp.ch,<blank>,Lerchenweg 4,Roland,<blank>,Hirt,99,2017-12-08 19:18:48
+162,3114 Wichtrach,079 873 79 77,<blank>,<blank>,rilana_trachsel@hotmail.com,<blank>,Sögeweg 25,Rilana,<blank>,Trachsel,99,2017-12-12 08:14:22
+185,3110 Münsingen,031 721 96 94,<blank>,<blank>,<blank>,<blank>,Bärenstutz 24g,Annette,Werbung<br />\r\n,Wyler,7,2019-12-10 16:16:08
+164,3627 Heimberg,079 886 44 42,<blank>,<blank>,lisa-gerber@gmx.ch,<blank>,Bürglenweg 16,Lisa,<blank>,Gerber,99,2018-01-08 11:41:27
+165,3110 Münsingen,<blank>,<blank>,<blank>,franziska.liffert@bluewin.ch,<blank>,Ahornweg 26,Franziska,<blank>,Meyer,99,2018-01-11 20:57:00
+166,3110 Münsingen,0793318722,<blank>,<blank>,jasminemeister99@gmail.com,<blank>,Tägertschistrassestrasse 24c,Jasmine,<blank>,Meister,99,2018-01-11 21:14:40
+167,3007 Bern,<blank>,<blank>,<blank>,mallexi2000@gmail.com,<blank>,friedensstrasse 4,melanie,<blank>,müller,99,2018-01-13 18:48:36
+168,3800 Interlaken,+41797784045,<blank>,<blank>,manuel13@gmx.net,<blank>,Jungfraustrasse 67,Manuel,<blank>,Weibel,99,2018-01-17 11:07:27
+169,3123 Belp,0799154606,<blank>,<blank>,ulrike.schneiders@me.com,<blank>,Kastanienweg 26,Ulrike ,<blank>,Schneiders,99,2018-01-20 20:01:00
+170,3123 Belp,031 819 80 85,<blank>,<blank>,karin.stoeckli.meisser@gmx.ch,<blank>,Birkenweg 14,Karin,<blank>,Stöckli-Meisser,99,2018-01-24 15:18:22
+171,3612 Steffisburg,079 404 09 57,<blank>,<blank>,pluessfrei@bluewin.ch,<blank>,Kniebrecheweg 30,Nicole,<blank>,Frei,99,2018-01-27 07:35:21
+172,3110 Münsingen,0799310400,<blank>,<blank>,noemigerber@gmx.net,<blank>,Dorfmattweg 43,Noëmi,<blank>,Gerber,99,2018-02-05 20:47:10
+176,Thun,0765082561,<blank>,<blank>,vonrohr.daniela@gmail.com,<blank>,Mittlere Strasse 30,Daniela,<blank>,von Rohr,99,2018-03-12 07:54:27
+174,3074 Muri,078 684 95 72,<blank>,<blank>,bruno@gfeller-elektro.ch,<blank>,Belpstr. 11,Bruno,<blank>,Mihovilovic,99,2018-02-12 15:33:46
+175,Wichtrach,+41786110444,<blank>,<blank>,sicherheit@steelpanfestival.ch,<blank>,"Lerchenweg, 7, 21.02.1947",Fritz,<blank>,Reber,99,2018-03-03 20:35:44
+177,3110 Münsingen ,0786532333,<blank>,<blank>,milenagreco@yahoo.com,<blank>,Innerer Giessenweg 16,Milena,<blank>,Greco ,99,2018-03-12 18:25:11
+179,3700 spiez,079 798 69 36,<blank>,<blank>,e.dettwiler@rebacker.educanet2.ch,<blank>,Schachenstrasse 29,Emanuel,<blank>,Dettwiler Reist,99,2018-03-22 18:56:20
+180,3014 Bern,079 464 56 13,<blank>,<blank>,vivian.hauss@outlook.com,<blank>,Wylerstrasse 63,Vivian,<blank>,Hauss,99,2018-03-28 11:54:26
+184,3110 Münsingen<br />\r\n,079 871 88 99<br />\r\n,<blank>,<blank>,material@samariter-muensingen.ch<br />\r\n,<blank>,\t\t\t\tBernstr. 16,Simone,Materialverantwortliche<br>Samariterjugendgruppe-Leiterin,Blaser,6,2018-08-03 11:41:37
+192,3054 Schüpfen,+41315110337,<blank>,<blank>,beate@kiewel-online.ch,<blank>,Richtersmattweg 17,Beate,<blank>,Kiewel,99,2018-08-16 15:35:33
+193,3113 / Rubigen,079 861 54 22,<blank>,<blank>,daniel@interlama.net,<blank>,Dorfmatte 1006,Daniel,<blank>,Ott Fröhlicher,99,2018-08-20 11:39:10
+194,3463 Häusernmoos,079 364 14 58,<blank>,<blank>,christine.zaugg@wasico.ch,<blank>,Waltrigen 34a,Christine ,<blank>,Zaugg,99,2018-08-27 18:12:04
+195,3072 Ostermundigen,031 939 31 28,<blank>,<blank>,gabriele.klug@kaestlibau.ch,<blank>,Grubenstrasse 12,Gabriele,<blank>,Klug,99,2018-08-30 16:43:42
+196,3098 Köniz,079 692 72 32,<blank>,<blank>,christoph.liechti@postfinance.ch,<blank>,Buchseeweg 32,Christoph,<blank>,Liechti,99,2018-08-31 09:58:58
+198,<blank>,<blank>,<blank>,<blank>,aline.krauer@muensingen.ch,<blank>,<blank>,Aline,<blank>,Krauer,99,2018-09-05 14:13:26
+200,3073,0763370399,<blank>,<blank>,dilara-ogan@gmx.ch,<blank>,Tannenweg 21,Dilara,<blank>,Ogan,99,2018-09-18 14:48:21
+203,3654 Gunten,031 351 96 85,<blank>,<blank>,rjufer@bluewin.ch,<blank>,Oertli 40 D,Regula,<blank>,Jufer Trolliet,99,2018-10-01 13:36:29
+271,6242 Wauwil,0792213290,<blank>,<blank>,joli.birrer@gmx.ch,<blank>,Wendelinsmatte 5,Jolanda,<blank>,Birrer,99,2019-04-03 13:09:30
+216,3110 Münsingen,0319917844,<blank>,<blank>,ulrich.marie-louise@gmx.ch,<blank>,Sägegasse 41,Marie-Louise,<blank>,Ulrich,99,2018-11-11 20:53:56
+218,<blank>,<blank>,<blank>,<blank>,tetspeirs@gmail.com,<blank>,<blank>,Tet,<blank>,Murphy,99,2018-11-12 13:10:48
+268,3176 Neuenegg,<blank>,<blank>,<blank>,belas@swissonline.ch,<blank>,Wassermattweg 12,Béatrice,<blank>,Lauster,99,2019-03-30 06:25:00
+222,3700 Spiez,0796923904,<blank>,<blank>,sonja20@gmx.ch,<blank>,Simmentalstrasse 8,Sonja,<blank>,Kohler,99,2018-11-20 07:57:11
+224,3600 Thun,0793880357,<blank>,<blank>,Lisa.hofstetter00@gmail.com,<blank>,Jungfraustrasse 26,Lisa,<blank>,Hofstetter,99,2018-11-20 16:49:25
+229,3007 Bern,079 255 78 32,<blank>,<blank>,arvo@parkourone.com,<blank>,Schwarztorstrasse 9,Arvo ,<blank>,Losinger,99,2018-12-19 16:37:28
+230,3110 Münsingen,<blank>,<blank>,<blank>,spring.luca@gmail.com,<blank>,Sägegasse 91,Luca,<blank>,Spring,99,2018-12-19 16:52:22
+262,3302 Moosseedorf,031 859 07 61,<blank>,<blank>,Alex.Kuster@bluewin.ch,<blank>,Kirchgasse 7,Alex,<blank>,Kuster,99,2019-03-21 14:46:21
+259,3110,031 721 18 20,<blank>,<blank>,family.bigler@gmx.ch,<blank>,Brunnmattweg 3,Karin,<blank>,Bigler,99,2019-03-13 10:28:43
+257,3671 Herbligen,<blank>,<blank>,<blank>,andrea.buehler@schule-oberdiessbach.ch,<blank>,Dorfstrasse 8,Andrea,<blank>,Bühler-Burri,99,2019-03-11 17:57:59
+240,3110 Münsingen,<blank>,<blank>,<blank>,daenu.dj@gmx.ch,<blank>,Meisenweg 4,Daniel,<blank>,Jenni,99,2019-01-13 22:05:48
+241,3110 Münsingen ,0798347457,<blank>,<blank>,dariowalliser@gmx.ch,<blank>,Hohniesenweg 17,Dario-Luca,<blank>,Walliser,99,2019-01-17 01:13:19
+243,<blank>,<blank>,<blank>,<blank>,astura14@hotmail.com,<blank>,<blank>,Anja,<blank>,Bürgi,99,2019-01-21 09:50:27
+244,<blank>,<blank>,<blank>,<blank>,timon2000@hotmail.ch,<blank>,<blank>,Timon,<blank>,Hansen,99,2019-01-23 21:05:20
+247,Münsingen,0798858060,<blank>,<blank>,chantal.bernhard@gmx.ch,<blank>,"Dorfmattweg, 21a",Chantal,<blank>,Bernhard,99,2019-01-28 21:57:06
+251,3110,077 460 26 96,<blank>,<blank>,stefan.schneider@muensingen.ch,<blank>,mühletalstrasse 21,stefan,<blank>,schneider,99,2019-02-11 20:23:57
+278,3110 Münsingen,031 721 66 86,<blank>,<blank>,nina.burri@sunrise.ch,<blank>,Amselweg 10,Nina,<blank>,Burri,99,2019-04-17 12:35:11
+279,Münsingen,0313825489,<blank>,<blank>,muelfra@gmx.ch,<blank>,Stierenmatte 3,Franziska,<blank>,Zwahlen,99,2019-04-18 23:51:10
+280,3604 Thun,0333368245,<blank>,<blank>,svona@hispeed.ch,<blank>,Distelweg 20,Susanne,<blank>,von Allmen,99,2019-04-23 11:12:17
+282,<blank>,<blank>,<blank>,<blank>,veronika.janeckova@gmx.ch,<blank>,<blank>,Veronika,<blank>,Janeckova,99,2019-05-01 18:20:06
+283,3700 Spiez,079 333 02 49,<blank>,<blank>,markus.keller7@bluewin.ch,<blank>,Thunstrasse 18,Markus,<blank>,Keller,99,2019-05-02 11:45:24
+288,<blank>,<blank>,<blank>,<blank>,angilini_i91@hotmail.com,<blank>,<blank>,Müller,<blank>,Angelina,99,2019-05-09 15:56:27
+293,10170,416-385-3200,<blank>,<blank>,eric@talkwithcustomer.com,<blank>,420 Lexington Avenue,Eric,<blank>,Jones,99,2019-05-20 18:06:37
+294,3123 Belp,031 818 51 40,<blank>,<blank>,patrick.hoxha@pacovis-amrein.com,<blank>,Hühnerhubelstrasse 95,Patrick ,<blank>,Hoxha,99,2019-05-21 10:39:44
+295,3076 Worb,079 725 91 99,<blank>,<blank>,sezer@wislepark.ch,<blank>,Sportweg 10,Yasmin,<blank>,Sezer,99,2019-05-21 13:15:55
+297,3006 Bern,078 602  17 87,<blank>,<blank>,beatrice.bratschi@hispeed.ch,<blank>,Schiferliweg 30,Beatrice,<blank>,Bratschi,99,2019-05-26 16:53:20
+298,3155 Helgisried,031 802 00 77,<blank>,<blank>,natalie-schmidt@bluewin.ch,<blank>,Rohrbachgasse 13,Natalie,<blank>,Schmidt,99,2019-05-27 22:27:43
+299,3110 Münsingen,079 376 85 61,<blank>,<blank>,info@sigis-biohof.ch,<blank>,Schwand 18,Urs,<blank>,Siegenthaler,99,2019-05-28 08:23:40
+306,3115 Gerzensee,079 421 57 20,<blank>,<blank>,sedona@bluemail.ch,<blank>,Rütigässli 3,Marianna,<blank>,Linder,99,2019-06-24 18:11:11
+307,3110,0798145989,<blank>,<blank>,JENNIFER.GLATZ@MUENSINGEN.CH,<blank>,Turnhallenweg 8,Jennifer ,<blank>,Anliker-Glatz,99,2019-06-25 21:07:00
+308,27330,(805) 372-1751,<blank>,<blank>,madisondtn49williams@aol.com,<blank>,500 Westover Dr #12733,Madison,<blank>,Williams,99,2019-07-01 05:10:22
+310,<blank>,079 881 65 82,<blank>,<blank>,domini@rubigen.ch,<blank>,<blank>,Dominique-Julia,<blank>,Häberli,99,2019-07-04 18:40:41
+314,<blank>,<blank>,<blank>,<blank>,fabischufis@hotmail.com,<blank>,<blank>,Fabienne,<blank>,Schaufelberger,99,2019-07-28 21:09:28
+320,3110 münsingen,079 296 14 50,<blank>,<blank>,kea.scout@gmx.ch,<blank>,hintergasse 9,michelle,<blank>,wenger,99,2019-08-17 15:54:01
+373,3110 Münsingen,0,<blank>,<blank>,79 366 46 81,<blank>,Aarweg 2,Danielle,<blank>,Brusato,99,2019-12-20 21:39:07
+324,3270 Aarberg,079 396 35 93,<blank>,<blank>,Tony-Maronie@gmx.ch,<blank>,<blank>,Tony,<blank>,Vollstädt,99,2019-08-25 15:41:44
+325,<blank>,<blank>,<blank>,<blank>,luisa@hotmail.ch,<blank>,<blank>,Luisa,<blank>,Böni,99,2019-08-26 19:13:06
+326,<blank>,<blank>,<blank>,<blank>,linda.r.1@gmx.ch,<blank>,<blank>,Linda,<blank>,Röthlisberger,99,2019-08-27 15:17:14
+328,46625,805-372-1751,<blank>,<blank>,emma@bestcontent.top,<blank>,3219 Villa Drive,Emma,<blank>,Wilson,99,2019-09-01 07:07:52
+329,münsingen,0797476247,<blank>,<blank>,mehdikhallaf30@gmail.com,<blank>,erlenauweg 8b,Mehdi,<blank>,khallaf,99,2019-09-03 20:33:21
+331,Trimstein,0799341643,<blank>,<blank>,a.scheidegger02@gmail.com,<blank>,Meiental 24a,Anna,<blank>,Scheidegger,99,2019-09-08 13:32:48
+334,27330,805-372-1751,<blank>,<blank>,vdctemp@aol.com,<blank>,500 Westover Dr #12733,Allison,<blank>,Green,99,2019-09-13 08:18:34
+335,3113 Rubigen,0791241663,<blank>,<blank>,nils.berger77@yahoo.com,<blank>,chäppeliweg 3,nils,<blank>,berger,99,2019-09-13 09:12:48
+338,<blank>,079 648 46 01,<blank>,<blank>,sl.tagesschule@schulenbelp.ch,<blank>,<blank>,Sibylle,<blank>,Fretz,99,2019-09-20 10:40:43
+341,münsingen,0797476247,<blank>,<blank>,khallafmehdi@gmail.com,<blank>,erlenauweg 8b,Mehdi,<blank>,khallaf,99,2019-09-22 20:12:02
+342,3083 Trimstein,0797388281,<blank>,<blank>,lukasgfeller@gmx.ch,<blank>,Steinacker 52,Lukas,<blank>,Gfeller,99,2019-09-24 07:46:32
+345,3110 Münsingen,031 721 52 48,<blank>,<blank>,edith.heymann@bluewin.ch,<blank>,Ahornweg 28,Edith,<blank>,Heymann,99,2019-10-05 17:02:41
+346,3700 Spiez,079 617 46 75,<blank>,<blank>,christoph.nyffenegger@spiez.ch,<blank>,Thunstrasse 82,Christoph,<blank>,Nyffenegger,99,2019-10-07 09:33:48
+382,3700 Spiez,079 568 84 74,<blank>,<blank>,<blank>,<blank>,Gygerweg 43,Fabienne,Kursleiterin 1<br>Samariterjugendgruppe-Leiterin,Rohner,20,0000-00-00 00:00:00
+350,27330,(805) 372-1751,<blank>,<blank>,madison.williams@businesstraffic1.xyz,<blank>,500 Westover Dr #12733,Madison,<blank>,Williams,99,2019-10-14 06:59:42
+360,<blank>,<blank>,<blank>,<blank>,ironmend@livenet.ch,<blank>,<blank>,anna,<blank>,stettler,99,2019-10-28 19:47:19
+361,Münsingen,+41792394129,<blank>,<blank>,juerg.preisig@mpd.gmbh,<blank>,Erlenauweg 17,Jürg,<blank>,Preisig,99,2019-10-29 11:16:42
+362,4800 Zofingen,<blank>,<blank>,<blank>,kurse@samariter-zofingen.ch,<blank>,<blank>,Regula,<blank>,Dubach,99,2019-11-04 08:50:42
+366,Münsingen,0793232706,<blank>,<blank>,mirjam.flueckli@bluewin.ch,<blank>,Südstrasse 4a,Flück,<blank>,Mirjam,99,2019-11-11 21:23:03
+367,3110 Münsingen,077 484 33 66,<blank>,<blank>,luana.hirschi@gmx.ch,<blank>,Erlenauweg 21,Luana,<blank>,Hirschi,99,2019-11-12 20:21:06
+369,3634,Thierachern,<blank>,<blank>,renwy@bluewin.ch,<blank>,Niesenstrasse.42,Renata,<blank>,Wyss,99,2019-11-14 18:36:41
+375,Münsingen,0787309565,<blank>,<blank>,lisa.rudolf@gmx.ch,<blank>,Gurnigelstrasse 24,Lisa,<blank>,Rudolf,99,2020-08-31 17:08:25
+376,3110 Münsingen,0764991414,<blank>,<blank>,Muecher@gmail.com,<blank>,Gerbegraben 17,Mila,<blank>,Mücher,99,2021-02-17 16:14:34
+381,3822 Lauterbrunnen ,0764791512,<blank>,<blank>,tobiaskuenzi@gmx.ch,<blank>,Unter den Stauden 28,Tobias ,<blank>,Künzi ,99,2021-08-27 11:53:51
+378,3115 Gerzensee,079 960 39 46,<blank>,<blank>,kurse@samariter-muensingen.ch,<blank>,Spielgasse 7H,Marc,<blank>,Krebs,99,0000-00-00 00:00:00
+379,934523,123089735,<blank>,<blank>,asd@mail.com,<blank>,oifhsdüoifghsdüoig,test,<blank>,test,99,2021-04-03 21:23:29
+386,3510,Konolfingen,<blank>,<blank>,kassier_in@samariter-muensingen.ch,<blank>,Chisenmattstr. 9,Beatrice,Kassierin,Geissbühler,9,0000-00-00 00:00:00
+
